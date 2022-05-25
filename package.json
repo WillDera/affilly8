@@ -39,7 +39,7 @@
     "crypto-hash": "^2.0.1",
     "dotenv": "^8.6.0",
     "elliptic": "^6.5.4",
-    "ethers": "^5.5.2",
+    "ethers": "^5.6.7",
     "gridjs": "^5.0.2",
     "ipfs": "^0.62.3",
     "ipfs-fetch": "^0.2.1",
@@ -53,6 +53,7 @@
     "three": "^0.136.0",
     "underscore": "^1.13.2",
     "updtr": "^4.0.0",
+    "web3": "^1.7.3",
     "yargs": "^17.3.1",
     "yargs-parser": "^21.0.0"
   },
